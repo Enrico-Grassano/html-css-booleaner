@@ -39,3 +39,49 @@
     color: rgb(169,169,169);
     font-weight: bold;
 }
+
+.fototim {
+    margin-top: 20px;
+}
+
+.fontifoto {
+    font-size: 13px;
+    line-height: 4px;
+    margin-top: 4px;
+}
+
+.highlightedtext {
+    background-color: yellow;
+}
+
+#frammentoarticolo {
+    margin-top: 25px;
+}
+
+
+#advice1 {
+    background-image: url(img/monitor.jpg);
+    color: white;
+    width: 200px;
+    height: 150px;
+    background-size: cover;
+    font-weight: bolder;
+    text-align:left;
+}
+
+#advice2 {
+    background-image: url(img/graph.jpg);
+    color: white;
+    width: 200px;
+    height: 150px;
+    background-size: cover;
+    font-weight: bolder;
+    text-align:left;
+    margin-top: 10px;
+}
+
+#advice0 {
+    margin-bottom: 8px ;
+    color: rgb(169,169,169);
+    font-weight: bold;
+}
