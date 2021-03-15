@@ -82,6 +82,23 @@
 
 #advice0 {
     margin-bottom: 8px ;
-    color: rgb(169,169,169);
+    color: rgb(128,128,128);
     font-weight: bold;
 }
+
+.table-head {
+    background-color: #20A9E5;
+    color: white;
+}
+
+.left-cell{
+    width: 50%;
+}
+
+.table-blue-row {
+    background-color: #B1E5F2;
+}
+    
+    
+
+
